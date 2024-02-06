@@ -1,5 +1,6 @@
 <script setup>
 import ApplicationLogo from '@/Components/ApplicationLogo.vue';
+
 import { Head, Link } from '@inertiajs/vue3';
 
 
@@ -37,7 +38,7 @@ import { Head, Link } from '@inertiajs/vue3';
                    
                     :href="route('register')"
                     class="ms-4 font-semibold text-gray-600 hover:text-gray-900 dark:text-gray-400 focus:outline focus:outline-2 focus:rounded-sm focus:outline-red-500"
-                    >Register</Link
+                    >Registersss</Link
                 >
             </template>
         </div>
